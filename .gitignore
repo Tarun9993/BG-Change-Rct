@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Ignore App.jsx
-src/App.jsx
+
 
 # Node modules and build outputs
 node_modules
